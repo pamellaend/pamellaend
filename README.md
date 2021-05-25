@@ -3,11 +3,10 @@
 Olá! Seja Bem-vindo!
 
 🇧🇷
-  Sou a Pâmella Oliveira Endlich (@pamellaend), sou engenheira de automação e controle e estou começando na área de desenvolvimento mobile android em Kotlin e aqui vou deixar meus projetos.
+  Sou a Pâmella Oliveira Endlich, sou engenheira de automação e controle e estou começando na área de desenvolvimento mobile android em Kotlin e aqui vou deixar meus projetos.
 _____________________
 🇺🇸
-  I’m Pâmella Oliveira Endlich (@pamellaend), automation and control engineer
- and I'm starting my journey on android mobile development using kotlin and here I'll keep my projects.
+  I’m Pâmella Oliveira Endlich, automation and control engineer and I'm starting my journey on android mobile development using kotlin and here I'll keep my projects.
  ____________________
  
  Contato :
